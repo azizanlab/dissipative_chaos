@@ -1,0 +1,8 @@
+# Python 3.9. Pins below are the versions the released results were produced
+# with (conda env `chaos_env`); newer minor versions generally work too.
+torch==2.7.1
+numpy==1.26.3
+scipy==1.13.1
+matplotlib==3.9.4
+scikit-learn==1.6.1
+tqdm==4.67.1

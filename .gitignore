@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# outputs of the notebooks, data generation and training
+figures/
+Data/
+Experiment_results/
